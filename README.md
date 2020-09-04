@@ -7,9 +7,9 @@
 Coming to the practical implementation, I love making scripts in Bash and tools in golang to automate processes that take lots of time while pentesting web applications. On the way of doing that made me think to write blogs on the hunting Bugs so that I can share my experience with other enthusiasts
 </em></p>
 
-[![Twitter: hahwul](https://img.shields.io/twitter/follow/hahwul?style=flat-square)](https://twitter.com/KathanP19)
-[![GitHub hahwul](https://img.shields.io/github/followers/hahwul?label=follow%20github&style=flat-square)](https://github.com/KathanP19)
-[![Paypal hahwul](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.buymeacoffee.com/kathanp19)
+[![Twitter: KathanP19](https://img.shields.io/twitter/follow/KathanP19?style=flat-square)](https://twitter.com/KathanP19)
+[![GitHub KathanP19](https://img.shields.io/github/followers/KathanP19?label=follow%20github&style=flat-square)](https://github.com/KathanP19)
+[![Paypal KathanP19](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.buymeacoffee.com/kathanp19)
 
 <br>
 
